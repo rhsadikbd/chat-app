@@ -10,7 +10,7 @@
                     <div class="single-list" v-for="(item, index) in 20" :key="index">
                         <img src="../assets/women.jpg" alt="" class="chat-img">
                         <div class="text">
-                            <h5 class="chat-name">Sahiner Bou {{ index+1 }}</h5>
+                            <h5 class="chat-name">Ada Lovelace {{ index+1 }}</h5>
                             <p class="chat-message">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam, excepturi.</p>
                         </div>
                     </div>
@@ -20,7 +20,7 @@
                 <div class="top-contents">
                     <div class="chat-info">
                         <img src="../assets/women.jpg" alt="" class="chat-img">
-                        <h5 class="chat-name">Sahiner Bou</h5>
+                        <h5 class="chat-name">Ada Lovelace</h5>
                     </div>
                     <div class="icon-lists">
                         <i class='bx bx-phone'></i>
@@ -31,10 +31,10 @@
                 <div class="chat-body">
                     <div class="chat-message">
                         <img src="../assets/women.jpg" alt="">
-                        <span class="message-line">I am Jarina, better half of Sahin. Who are you talking with me?</span>
+                        <span class="message-line">I am Ada Lovelace, who are you speaking with me?</span>
                     </div>
                     <div class="chat-message myself">
-                        <span class="message-line">Sahin Notir pula koi? okeee doree felo na kheno?</span>
+                        <span class="message-line">I am Sahin from Bangladesh</span>
                     </div>
                 </div>
                 <div class="chat-typing">
